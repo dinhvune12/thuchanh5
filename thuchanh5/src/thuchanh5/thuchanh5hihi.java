@@ -19,7 +19,7 @@ public class thuchanh5hihi {
 					window.frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
-				}//gg
+				}
 			}
 		});
 	}
